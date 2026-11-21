@@ -16,7 +16,12 @@ The `.mat` files are the waypoint and trajectory sets the scripts load.
 
 ## Demos
 
-Real-robot trials of Task 5 on the Panther robot are in [`demos/`](demos/).
+Real-robot trials of Task 5 on the Panther robot (full-quality videos are in [`demos/`](demos/)):
+
+<p>
+  <img src="demos/real-robot-demo-1.gif" width="240" alt="Panther robot real-world trial 1">
+  <img src="demos/real-robot-demo-2.gif" width="240" alt="Panther robot real-world trial 2">
+</p>
 
 ## How the controller works
 
